@@ -22,7 +22,7 @@ public class ClientNode {
     
     //Now creationg a function to send message to another client
     public void send(String receiverID, String message){
-        server.sendingMessage(this.cleintID, receiverID, message);
+        server.sendMessage(this.cleintID, receiverID, message);
     }
     
     //Now creating a function to receive the message and diplay it
