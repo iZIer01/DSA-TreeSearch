@@ -1,2 +1,2 @@
-# DSA-Startopology
-Creating a java-based simulation of a star topology computer network Where all client nodes (computers) are connected to a central server node. Clients do not communicate directly with each other—they must send and receive messages through the central server.
+# DSA-TreeSearch
+This is a simple Java console-based application that demonstrates basic operations on a Binary Search Tree (BST) using a menu-driven interface

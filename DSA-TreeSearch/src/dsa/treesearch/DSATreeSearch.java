@@ -1,3 +1,4 @@
+
 package dsa.treesearch;
 
 import java.util.Scanner;
@@ -11,6 +12,7 @@ class Node {
         left = right = null;
     }
 }
+
 
 // Tree class with all tree operations
 class Tree {
@@ -136,3 +138,4 @@ public class DSATreeSearch {
         }
     }
 }
+
